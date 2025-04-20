@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_taller_automotriz\\clases\\reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|solutionrelative:clases\\reparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_taller_automotriz\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_taller_automotriz\\clases\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|solutionrelative:clases\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_taller_automotriz\\clases\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|solutionrelative:clases\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_taller_automotriz\\clases\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|solutionrelative:clases\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_taller_automotriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_taller_automotriz\\clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1F4757-2183-4D81-B2A1-A240E65ABC19}|proyecto_taller_automotriz.csproj|solutionrelative:clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 208,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:35:54.594Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Taller.cs",
+              "RelativeDocumentMoniker": "Clases\\Taller.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Taller.cs",
+              "RelativeToolTip": "Clases\\Taller.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:16:48.966Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mecanico.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Mecanico.cs",
+              "RelativeDocumentMoniker": "Clases\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Mecanico.cs",
+              "RelativeToolTip": "Clases\\Mecanico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:18:16.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repuesto.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Repuesto.cs",
+              "RelativeDocumentMoniker": "Clases\\Repuesto.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Repuesto.cs",
+              "RelativeToolTip": "Clases\\Repuesto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:18:57.175Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Carro.cs",
+              "RelativeDocumentMoniker": "Clases\\Carro.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Carro.cs",
+              "RelativeToolTip": "Clases\\Carro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:19:11.727Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Cliente.cs",
+              "RelativeToolTip": "Clases\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:19:53.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reparacion.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Reparacion.cs",
+              "RelativeDocumentMoniker": "Clases\\Reparacion.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_taller_automotriz\\Clases\\Reparacion.cs",
+              "RelativeToolTip": "Clases\\Reparacion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:17:18.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

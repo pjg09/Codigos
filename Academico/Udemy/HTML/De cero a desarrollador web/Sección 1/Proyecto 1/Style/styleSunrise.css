@@ -1,0 +1,73 @@
+body {
+    background-color: #FEF5DC;
+    width: auto;
+}
+
+#cajaH1 {
+    width: auto;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#cajaTexto1 {
+    width: auto;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 22.12%;
+}
+
+#cajaImagenTexto {
+    width: auto;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#cajaImagenes {
+    margin-top: 2%;
+}
+
+#titulo1 {
+    font-family: "Gill Sans", Helvetica;
+    margin-top: 1.8%;
+    line-height: 1.35;
+    text-align: center;
+    font-size: 40px;
+    margin-right: 48%;
+}
+
+#parrafo1 {
+    line-height: 1.35;
+    text-align: justify;
+    font-family: "Gill Sans", Helvetica;
+    font-size: 17.5px;
+}
+
+#labelSunset {
+    line-height: 1.35;
+    font-family: "Gill Sans", Helvetica;
+    font-size: 25px;
+    margin-left: 33.8%;
+}
+
+#labelNightfall {
+    line-height: 1.35;
+    font-family: "Gill Sans", Helvetica;
+    font-size: 25px;
+    margin-left: 19.2%;
+}
+
+#imagen2 {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 9.5%;
+}
+
+#imagen3 {
+    border-radius: 50%
+}
+
+#imagen4 {
+    border-radius: 50%
+}

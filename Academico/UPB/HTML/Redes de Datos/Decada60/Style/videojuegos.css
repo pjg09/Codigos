@@ -1,0 +1,98 @@
+body {
+    background-color: #000;
+    width: 100vw;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'PT Sans', sans-serif;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 48px;
+    color: #fff;
+    text-align: center;
+    margin-top: 6vh;
+}
+
+.contenedor {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/23/Spacewar%21-PDP-1-20070512.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 100vw;
+}
+
+.juegos {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.juegos img {
+    width: 40%;
+}
+
+.juegos p {
+    width: 40%;
+    font-size: 24px;
+    text-align: justify;
+    color: #fff;
+}
+
+.h2acceso {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+}
+
+.h2acceso h2 {
+    color: #000;
+    margin-top: 3%;
+}
+
+.acceso {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.acceso img {
+    width: 30%;
+}
+
+.acceso p {
+    color: #000;
+    width: 40%;
+    font-size: 24px;
+    text-align: justify;
+}
+
+.seccion {
+    margin-top: 5vh;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+}
+
+.seccion img {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    width: 10vh;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.seccion img:hover {
+    height: 15vh;
+    width: 15vh;
+}

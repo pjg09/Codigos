@@ -1,0 +1,5 @@
+player_image = imagen_pedro
+
+bullet_image = imagen_proyectil
+
+background_image = imagen_fondo

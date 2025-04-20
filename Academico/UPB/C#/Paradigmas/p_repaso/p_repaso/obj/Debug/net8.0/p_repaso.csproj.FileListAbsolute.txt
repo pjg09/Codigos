@@ -1,0 +1,14 @@
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\bin\Debug\net8.0\p_repaso.exe
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\bin\Debug\net8.0\p_repaso.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\bin\Debug\net8.0\p_repaso.runtimeconfig.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\bin\Debug\net8.0\p_repaso.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\bin\Debug\net8.0\p_repaso.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\p_repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\p_repaso.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\p_repaso.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\p_repaso.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\p_repaso.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\refint\p_repaso.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\p_repaso.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\p_repaso.genruntimeconfig.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_repaso\p_repaso\obj\Debug\net8.0\ref\p_repaso.dll

@@ -1,0 +1,76 @@
+.bodyMain {
+    background-color: #F4FFFE;
+    font-family: "Gill Sans", Helvetica;
+    line-height: 1.35;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+}
+
+.bodyCarta{
+    background-color: #FEFAE2;
+    font-family: "Gill Sans", Helvetica;
+    line-height: 1.35;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+}
+
+.contenedorMain {
+    display: grid;
+    place-items: center;
+    margin-top: 5%;
+}
+
+.asd {
+    display: grid;
+    place-items: center;
+    margin-top: 2%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.parrafoMain {
+    width: 44%;        
+    text-align: center;
+    font-size: 20px;
+}
+
+.botonMain {
+    margin-top: 30%;
+    font-size: 24px;
+    padding: 12px 28px;
+    border-radius: 12px;
+    background-color: #F4FFFE;
+    transition-duration: 0.6s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 2px solid black;
+}
+
+.botonMain:hover {
+    background-color: #FEFAE2;
+}
+
+.fotoMain {
+    width: 50%;
+    margin-top: 3.5%;
+    border-radius: 4%;
+}
+
+.contenedorCarta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.fotoCarta {
+    border-radius: 4%;
+    width: 76%;
+}
+
+.parrafoCarta {
+    width: 80%;
+    margin-left: 2%;
+    text-align: justify;
+}

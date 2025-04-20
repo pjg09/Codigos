@@ -1,0 +1,9 @@
+.calculo{
+    background-color: #E9E9E9;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.calculo span{
+    color: red;
+    font-weight: bold;
+}

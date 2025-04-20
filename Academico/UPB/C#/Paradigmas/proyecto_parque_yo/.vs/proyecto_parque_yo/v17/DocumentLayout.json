@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_parque_yo\\clases\\parque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|solutionrelative:clases\\parque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_parque_yo\\clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|solutionrelative:clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_parque_yo\\clases\\atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|solutionrelative:clases\\atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_parque_yo\\clases\\manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|solutionrelative:clases\\manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_parque_yo\\clases\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|solutionrelative:clases\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_parque_yo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}|proyecto_parque_yo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 208,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:39:45.055Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parque.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Parque.cs",
+              "RelativeDocumentMoniker": "Clases\\Parque.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Parque.cs",
+              "RelativeToolTip": "Clases\\Parque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:42:48.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Atraccion.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Atraccion.cs",
+              "RelativeDocumentMoniker": "Clases\\Atraccion.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Atraccion.cs",
+              "RelativeToolTip": "Clases\\Atraccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:43:40.464Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taquilla.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Taquilla.cs",
+              "RelativeDocumentMoniker": "Clases\\Taquilla.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Taquilla.cs",
+              "RelativeToolTip": "Clases\\Taquilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:44:02.99Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Registro.cs",
+              "RelativeDocumentMoniker": "Clases\\Registro.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Registro.cs",
+              "RelativeToolTip": "Clases\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:44:25.593Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manilla.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Manilla.cs",
+              "RelativeDocumentMoniker": "Clases\\Manilla.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_parque_yo\\Clases\\Manilla.cs",
+              "RelativeToolTip": "Clases\\Manilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:44:44.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

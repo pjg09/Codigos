@@ -1,0 +1,134 @@
+body {
+    background-color: #0002A2;
+    overflow: hidden;
+    font-family: 'Slabo', sans-serif;
+}
+
+img {
+    cursor: move;
+}
+
+.jarron {
+    position: absolute;
+    height: 26%;
+    width: 35%;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 7;
+}
+
+#mano1 {
+    transform: rotate(-55deg);
+    position: absolute;
+    width: 26.18%;
+    height: 75%;
+    left: 22%;
+    bottom: 0%;
+    z-index: 2;
+    transition: 1s;
+    background-color: transparent;
+}
+
+#mano2 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 17.56%;
+    height: 79%;
+    left: 41%;
+    bottom: 2%;
+    z-index: 5;
+    transition: 1s;
+    background-color: transparent;
+}
+
+#mano3 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 22.12%;
+    height: 77%;
+    left: 46%;
+    top: 4%;
+    z-index: 6;
+    transition: 1s;
+    background-color: transparent;
+}
+
+#piernas1 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 44.95%;
+    height:68%;
+    bottom: 18%;
+    left: 50%;
+    z-index: 4;
+    transition: 1s;
+    background-color: transparent;
+}
+
+#pie1 {
+    transform: rotate(-32deg);
+    position: absolute;
+    width: 31.37%;
+    height: 74%;
+    left: 28%;
+    bottom: 22%;
+    z-index: 3;
+    transition: 1s;
+    background-color: transparent;
+}
+
+#pie2 {
+    transform: rotate(36deg);
+    position: absolute;
+    width: 25.88%;
+    height: 72%;
+    left: 54%;
+    bottom: 20%;
+    z-index: 1;
+    transition: 1s;
+    background-color: transparent;
+}
+
+.mano1- {
+    position: absolute;
+    z-index: 2;
+}
+
+.mano2- {
+    position: absolute;
+    z-index: 5;
+}
+
+.mano3- {
+    position: absolute;
+    z-index: 6;
+}
+
+.piernas1- {
+    position: absolute;
+    z-index: 4;
+}
+
+.pie1- {
+    position: absolute;
+    z-index: 3;
+}
+
+.pie2- {
+    position: absolute;
+    z-index: 1;
+}
+
+p {
+    color: #fff;
+    letter-spacing: 1.6px;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.texto {
+    width: 25%;
+    margin-left: 8%;
+    margin-top: 5%;
+}

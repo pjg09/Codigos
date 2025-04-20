@@ -1,0 +1,14 @@
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\bin\Debug\net6.0\p_bicibleta.exe
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\bin\Debug\net6.0\p_bicibleta.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\bin\Debug\net6.0\p_bicibleta.runtimeconfig.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\bin\Debug\net6.0\p_bicibleta.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\bin\Debug\net6.0\p_bicibleta.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\p_bicibleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\p_bicibleta.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\p_bicibleta.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\p_bicibleta.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\p_bicibleta.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\refint\p_bicibleta.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\p_bicibleta.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\p_bicibleta.genruntimeconfig.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\p_bicibleta\obj\Debug\net6.0\ref\p_bicibleta.dll

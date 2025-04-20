@@ -1,0 +1,19 @@
+body {
+    background-color: #ffe9ad;
+}
+
+.contenedor {
+    display: grid;
+    place-items: center;
+}
+
+.foto {
+    width: 50%;
+    border-radius: 8px;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}

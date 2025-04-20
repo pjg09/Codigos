@@ -1,0 +1,15 @@
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\bin\Debug\net8.0\ParqueAtracciones.exe
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\bin\Debug\net8.0\ParqueAtracciones.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\bin\Debug\net8.0\ParqueAtracciones.runtimeconfig.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\bin\Debug\net8.0\ParqueAtracciones.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\bin\Debug\net8.0\ParqueAtracciones.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.sourcelink.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\refint\ParqueAtracciones.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ParqueAtracciones.genruntimeconfig.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\ParqueAtracciones\obj\Debug\net8.0\ref\ParqueAtracciones.dll

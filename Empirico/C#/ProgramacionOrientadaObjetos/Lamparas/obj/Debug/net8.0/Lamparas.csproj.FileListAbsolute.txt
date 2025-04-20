@@ -1,0 +1,15 @@
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\bin\Debug\net8.0\Lamparas.exe
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\bin\Debug\net8.0\Lamparas.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\bin\Debug\net8.0\Lamparas.runtimeconfig.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\bin\Debug\net8.0\Lamparas.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\bin\Debug\net8.0\Lamparas.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.sourcelink.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\refint\Lamparas.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\Lamparas.genruntimeconfig.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Codigos\Empirico\C#\ProgramacionOrientadaObjetos\Lamparas\obj\Debug\net8.0\ref\Lamparas.dll

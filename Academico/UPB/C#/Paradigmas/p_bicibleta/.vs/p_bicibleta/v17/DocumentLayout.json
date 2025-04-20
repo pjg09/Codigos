@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\p_bicibleta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5F44C7-B49B-4C34-B993-B1EFCFB4AEBC}|p_bicibleta.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\p_bicibleta\\clases\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5F44C7-B49B-4C34-B993-B1EFCFB4AEBC}|p_bicibleta.csproj|solutionrelative:clases\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5F44C7-B49B-4C34-B993-B1EFCFB4AEBC}|p_bicibleta.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\p_bicibleta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5F44C7-B49B-4C34-B993-B1EFCFB4AEBC}|p_bicibleta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\p_bicibleta\\Clases\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "Clases\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\p_bicibleta\\Clases\\Bicicleta.cs",
+              "RelativeToolTip": "Clases\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:21:03.308Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\p_bicibleta\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\p_bicibleta\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:17:25.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

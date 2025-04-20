@@ -1,0 +1,14 @@
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\bin\Debug\net8.0\proyecto_taller_automotriz.exe
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\bin\Debug\net8.0\proyecto_taller_automotriz.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\bin\Debug\net8.0\proyecto_taller_automotriz.runtimeconfig.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\bin\Debug\net8.0\proyecto_taller_automotriz.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\bin\Debug\net8.0\proyecto_taller_automotriz.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\proyecto_taller_automotriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\proyecto_taller_automotriz.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\proyecto_taller_automotriz.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\proyecto_taller_automotriz.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\proyecto_taller_automotriz.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\refint\proyecto_taller_automotriz.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\proyecto_taller_automotriz.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\proyecto_taller_automotriz.genruntimeconfig.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\proyecto_taller_automotriz\obj\Debug\net8.0\ref\proyecto_taller_automotriz.dll

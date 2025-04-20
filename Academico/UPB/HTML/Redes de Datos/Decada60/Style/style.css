@@ -1,0 +1,87 @@
+body {
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.contenedor {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.banner {
+    margin: 0px;
+    padding: 0px;
+    height: 40%;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/a2/Fiesta_del_PCE_003.jpg');
+    background-size: cover;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo h1 {
+    font-size: 48px;
+}
+
+.introduccion {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.introduccion img {
+    height: 100%;
+}
+
+.introduccion p {
+    width: 40%;
+    font-size: 24px;
+    text-align: justify;
+}
+
+.seccion {
+    background-color: #000;
+    margin-top: 3%;
+}
+
+.seccion img {
+    margin-top: 3%;
+}
+
+.subtitulo {
+    display: flex;
+    justify-content: center;
+}
+
+.subtitulo h2 {
+    color: #fff;
+    margin-top: 3%;
+    font-size: 40px;
+}
+
+.contenedorredireccion {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5vh;
+}
+
+.redireccion img {
+    height: 28vh;
+    transition: 0.5s;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.redireccion img:hover {
+    height: 35vh;
+    box-shadow: 0 0 300px rgba(255, 255, 255, 0.5);
+}

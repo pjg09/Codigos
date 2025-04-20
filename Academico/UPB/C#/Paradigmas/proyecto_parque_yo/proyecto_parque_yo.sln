@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto_parque_yo", "proyecto_parque_yo.csproj", "{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06783BDB-0DBF-4EE3-9696-C82BB0A8F105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

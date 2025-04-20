@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\aspectos_operaciones_basesdedatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\aspectos_operaciones_basesdedatos\\clases\\operarbasededatosposgress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|solutionrelative:clases\\operarbasededatosposgress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\aspectos_operaciones_basesdedatos\\clases\\operarbasededatosoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|solutionrelative:clases\\operarbasededatosoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\aspectos_operaciones_basesdedatos\\clases\\operarbasededatosmicrosoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|solutionrelative:clases\\operarbasededatosmicrosoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\aspectos_operaciones_basesdedatos\\aspectos\\interceptoroperacionesbasesdedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|solutionrelative:aspectos\\interceptoroperacionesbasesdedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\aspectos_operaciones_basesdedatos\\interfaces\\ioperacionesbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F4B3D-3DF9-49BA-902D-1BA6F2D00310}|Aspectos_Operaciones_BasesDeDatos.csproj|solutionrelative:interfaces\\ioperacionesbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:16:09.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOperacionesBaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Interfaces\\IOperacionesBaseDeDatos.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOperacionesBaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Interfaces\\IOperacionesBaseDeDatos.cs",
+              "RelativeToolTip": "Interfaces\\IOperacionesBaseDeDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:23:36.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterceptorOperacionesBasesDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Aspectos\\InterceptorOperacionesBasesDeDatos.cs",
+              "RelativeDocumentMoniker": "Aspectos\\InterceptorOperacionesBasesDeDatos.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Aspectos\\InterceptorOperacionesBasesDeDatos.cs",
+              "RelativeToolTip": "Aspectos\\InterceptorOperacionesBasesDeDatos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:29:27.98Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperarBaseDeDatosMicrosoft.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Clases\\OperarBaseDeDatosMicrosoft.cs",
+              "RelativeDocumentMoniker": "Clases\\OperarBaseDeDatosMicrosoft.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Clases\\OperarBaseDeDatosMicrosoft.cs",
+              "RelativeToolTip": "Clases\\OperarBaseDeDatosMicrosoft.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:25:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperarBaseDeDatosOracle.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Clases\\OperarBaseDeDatosOracle.cs",
+              "RelativeDocumentMoniker": "Clases\\OperarBaseDeDatosOracle.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Clases\\OperarBaseDeDatosOracle.cs",
+              "RelativeToolTip": "Clases\\OperarBaseDeDatosOracle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:09:06.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperarBaseDeDatosPosgress.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Clases\\OperarBaseDeDatosPosgress.cs",
+              "RelativeDocumentMoniker": "Clases\\OperarBaseDeDatosPosgress.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Clases\\OperarBaseDeDatosPosgress.cs",
+              "RelativeToolTip": "Clases\\OperarBaseDeDatosPosgress.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:09:29.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

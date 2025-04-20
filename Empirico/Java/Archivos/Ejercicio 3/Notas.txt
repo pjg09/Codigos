@@ -1,0 +1,3 @@
+Samuel Gomez: 3.4; 4.5; 5.0
+Sara Alzate: 4.0; 4.8; 5.0
+Pedro Contreras: 3.7; 3.5; 4.0

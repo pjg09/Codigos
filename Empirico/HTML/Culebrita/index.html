@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Culebrita</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        body{
+
+            margin: 0px;
+
+        }
+        #contenido{
+
+            width: 100%;
+            height: 100%;
+            background: black;
+            position: fixed;
+
+        }   
+
+    </style>
+
+    <script>
+        $(document).ready(function(){
+           
+
+            var canvas = document.getElementById('Cam');
+
+            var ctx =  canvas.getContext("2d");
+
+            canvas.width =  window.innerWidth;
+            canvas.height = window.innerHeight;
+
+            //dibujar un fondo
+
+            ctx.fillStyle = "black";
+            ctx.fillRect(0,0,canvas.width,canvas.height);
+
+            var canvasx = Math.abs(canvas.width / 10).toFixed(0);
+            var canvasy = Math.abs(canvas.height / 10).toFixed(0);
+
+            var matrix = [];
+
+            function randomMatriz(){
+
+                for(var i = 0; i < canvasx; i++){
+
+                    matrix[i] = [];
+                    for(var j = 0; j < canvasy; j++){
+
+                        matrix[i][j] = Math.floor(Math.random() * 2);
+
+                    }
+
+                }
+
+            }
+
+            function renderMatriz(){
+
+                for(var i = 0;i < canvasx;i++){
+
+                    for(var j = 0;j < canvasy;j++){
+
+                        if(matrix[i][j] == 0){
+
+                            ctx.fillStyle = "black";
+                            ctx.fillRect(i*10,j*10,10,10);
+
+                        }else{
+
+                            ctx.fillStyle = "white";
+                            ctx.fillRect(i*10,j*10,10,10);
+
+                        }
+
+                    }
+
+                }
+
+            }
+
+            setInterval(function(){
+
+                //randomMatriz();
+
+                renderMatriz();
+
+            },1000);
+
+        });
+    </script>
+</head>
+<body>
+    <div id="contenido">
+        <canvas id="Cam"></canvas>
+    </div>
+</body>
+</html>

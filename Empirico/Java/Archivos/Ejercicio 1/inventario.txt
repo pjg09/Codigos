@@ -1,0 +1,10 @@
+101,Laptop Dell Inspiron,1,3200,15
+102,Monitor Samsung 24",1,250,30
+103,iPhone 13,2,999,20
+104,Teclado Mecánico Logitech,3,120,50
+105,Auriculares Sony WH-1000XM4,4,350,25
+106,Cargador USB-C 65W,3,40,60
+107,Smartwatch Samsung Galaxy Watch 5,2,280,15
+108,Parlante JBL Charge 5,4,180,35
+109,Memoria USB 128GB,3,25,100
+110,Cable HDMI 2m,3,15,80

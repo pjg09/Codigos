@@ -1,0 +1,11 @@
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\biblioteca_multiplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\biblioteca_multiplex.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\biblioteca_multiplex.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\biblioteca_multiplex.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\bin\Debug\net8.0\biblioteca_multiplex.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\bin\Debug\net8.0\biblioteca_multiplex.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\bin\Debug\net8.0\biblioteca_multiplex.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\biblioteca_multiplex.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\refint\biblioteca_multiplex.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\biblioteca_multiplex.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\biblioteca_multiplex\obj\Debug\net8.0\ref\biblioteca_multiplex.dll

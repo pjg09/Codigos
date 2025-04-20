@@ -1,0 +1,14 @@
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\bin\Debug\net8.0\estudiantes_interfaces_polimorfismo.exe
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\bin\Debug\net8.0\estudiantes_interfaces_polimorfismo.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\bin\Debug\net8.0\estudiantes_interfaces_polimorfismo.runtimeconfig.json
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\bin\Debug\net8.0\estudiantes_interfaces_polimorfismo.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\bin\Debug\net8.0\estudiantes_interfaces_polimorfismo.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\estudiantes_interfaces_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\estudiantes_interfaces_polimorfismo.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\estudiantes_interfaces_polimorfismo.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\estudiantes_interfaces_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\estudiantes_interfaces_polimorfismo.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\refint\estudiantes_interfaces_polimorfismo.dll
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\estudiantes_interfaces_polimorfismo.pdb
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\estudiantes_interfaces_polimorfismo.genruntimeconfig.cache
+C:\Users\pjgom\OneDrive\Desktop\Programacion\Programas\Academico\UPB\paradigmas\estudiantes_interfaces_polimorfismo\obj\Debug\net8.0\ref\estudiantes_interfaces_polimorfismo.dll

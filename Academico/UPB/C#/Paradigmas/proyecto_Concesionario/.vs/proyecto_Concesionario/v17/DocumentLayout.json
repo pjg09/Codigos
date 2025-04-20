@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_concesionario\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|solutionrelative:concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_concesionario\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|solutionrelative:automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_concesionario\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\proyecto_concesionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13081BDD-3FA6-4026-A22F-127AFB59163A}|proyecto_Concesionario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:21:05.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Concesionario.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\Concesionario.cs",
+              "RelativeDocumentMoniker": "Concesionario.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\Concesionario.cs",
+              "RelativeToolTip": "Concesionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:33:07.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\Automovil.cs",
+              "RelativeDocumentMoniker": "Automovil.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\Automovil.cs",
+              "RelativeToolTip": "Automovil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvxMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:23:57.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\proyecto_Concesionario\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-19T15:25:46.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

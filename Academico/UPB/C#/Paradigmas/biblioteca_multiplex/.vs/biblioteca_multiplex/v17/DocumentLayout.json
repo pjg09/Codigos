@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\interfaces\\iefectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:interfaces\\iefectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\multiplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\multiplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\espectador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\espectador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\taquillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\taquillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\programas\\academico\\upb\\paradigmas\\biblioteca_multiplex\\clases\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AF9A1-F980-4A35-9587-FD9F96BF45D3}|biblioteca_multiplex.csproj|solutionrelative:clases\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 208,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Multiplex.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Multiplex.cs",
+              "RelativeDocumentMoniker": "Clases\\Multiplex.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Multiplex.cs",
+              "RelativeToolTip": "Clases\\Multiplex.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:11.475Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEfectos.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Interfaces\\IEfectos.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEfectos.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Interfaces\\IEfectos.cs",
+              "RelativeToolTip": "Interfaces\\IEfectos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:55:36.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Sala.cs",
+              "RelativeDocumentMoniker": "Clases\\Sala.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Sala.cs",
+              "RelativeToolTip": "Clases\\Sala.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:16.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Taquilla.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Taquilla.cs",
+              "RelativeDocumentMoniker": "Clases\\Taquilla.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Taquilla.cs",
+              "RelativeToolTip": "Clases\\Taquilla.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:22.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Venta.cs",
+              "RelativeDocumentMoniker": "Clases\\Venta.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Venta.cs",
+              "RelativeToolTip": "Clases\\Venta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:25.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Socio.cs",
+              "RelativeDocumentMoniker": "Clases\\Socio.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Socio.cs",
+              "RelativeToolTip": "Clases\\Socio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:18.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:14.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Clases\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Pelicula.cs",
+              "RelativeToolTip": "Clases\\Pelicula.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:13.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Funcion.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Funcion.cs",
+              "RelativeDocumentMoniker": "Clases\\Funcion.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Funcion.cs",
+              "RelativeToolTip": "Clases\\Funcion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:10.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Boleta.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Boleta.cs",
+              "RelativeDocumentMoniker": "Clases\\Boleta.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Boleta.cs",
+              "RelativeToolTip": "Clases\\Boleta.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:27:09.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Taquillero.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Taquillero.cs",
+              "RelativeDocumentMoniker": "Clases\\Taquillero.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Taquillero.cs",
+              "RelativeToolTip": "Clases\\Taquillero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:25:56.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Espectador.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Espectador.cs",
+              "RelativeDocumentMoniker": "Clases\\Espectador.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Programas\\Academico\\UPB\\paradigmas\\biblioteca_multiplex\\Clases\\Espectador.cs",
+              "RelativeToolTip": "Clases\\Espectador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:25:51.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUQ1Utf+yk0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Aspectos_Operaciones_BasesDeDatos\\Aspectos_Operaciones_BasesDeDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjgom\\.nuget\\packages\\castle.core\\5.2.1\\castle.core.5.2.1.nupkg.sha512",
+    "C:\\Users\\pjgom\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
