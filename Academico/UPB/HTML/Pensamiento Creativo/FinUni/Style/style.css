@@ -29,14 +29,37 @@ header {
     background-color: #aed1b2;
     margin: 0;
     display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
 }
 
 header h1 {
     font-size: 4rem;
 }
 
+header button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: #2a4a32;
+  color: #f9f9f9;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.seccion-izquierda {
+  display: flex;
+}
+
 .izquierda, .derecha {
     margin: 0;
+}
+
+.izquierda {
+  background-color: #2a4a32;
+  border-radius: 0.5rem;
+  color: #f9f9f9;
 }
 
 /*main*/
