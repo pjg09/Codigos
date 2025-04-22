@@ -7,7 +7,7 @@
 }
 
 html, body {
-    font-family: 'Segoe UI', sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
     background-color: #f9f9f9;
@@ -18,9 +18,19 @@ img {
     height: auto;
 }
 
+header,
+main,
+footer {
+  width: 100%;
+}
+
 /*body*/
 
-
+body {
+  background-color: #aed1b2;
+  margin: 0;
+  padding: 0;
+}
 
 /*header*/
 
@@ -37,15 +47,32 @@ header h1 {
     font-size: 4rem;
 }
 
-header button {
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
+.contenedor-boton {
+  display: flex;
+  align-items: center;
+}
+
+.boton-header {
+  padding: 0.5rem 1.1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1;
   background-color: #2a4a32;
   color: #f9f9f9;
   border: none;
+  border-radius: 0.5rem;
   cursor: pointer;
-  font-weight: bold;
-  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  transition-duration: 0.4s;
+}
+
+.boton-header:hover {
+  background-color: #aed1b2;
+  color: #333;
+  box-shadow: 0 0 20px 8px #2a4a32;
 }
 
 .seccion-izquierda {
@@ -66,6 +93,7 @@ header button {
 
 main {
     text-align: center;
+    background-color: #f9f9f9;
 }
 
 /*footer*/
@@ -78,7 +106,7 @@ footer {
 
 @media (min-width: 768px) {
     body {
-      padding: 2rem;
+      padding: 0;
     }
   
     h1 {
@@ -92,4 +120,4 @@ footer {
       grid-template-columns: repeat(2, 1fr);
       gap: 2rem;
     }
-  }
+  }  
