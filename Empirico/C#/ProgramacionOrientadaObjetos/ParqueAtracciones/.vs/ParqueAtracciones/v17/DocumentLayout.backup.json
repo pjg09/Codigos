@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Empirico\\C#\\ProgramacionOrientadaObjetos\\ParqueAtracciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\empirico\\c#\\programacionorientadaobjetos\\parqueatracciones\\clases\\manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|solutionrelative:clases\\manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\empirico\\c#\\programacionorientadaobjetos\\parqueatracciones\\clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|solutionrelative:clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\empirico\\c#\\programacionorientadaobjetos\\parqueatracciones\\clases\\atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|solutionrelative:clases\\atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\empirico\\c#\\programacionorientadaobjetos\\parqueatracciones\\clases\\manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|solutionrelative:clases\\manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DAADCC8-04E3-45ED-A786-1CC87F20316C}|ParqueAtracciones.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\empirico\\c#\\programacionorientadaobjetos\\parqueatracciones\\clases\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 208,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -47,8 +47,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T19:30:08.133Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -61,8 +60,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:09:13.613Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -75,12 +73,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:10:00.17Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Atraccion.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Empirico\\C#\\ProgramacionOrientadaObjetos\\ParqueAtracciones\\Clases\\Atraccion.cs",
               "RelativeDocumentMoniker": "Clases\\Atraccion.cs",
@@ -94,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Taquilla.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Empirico\\C#\\ProgramacionOrientadaObjetos\\ParqueAtracciones\\Clases\\Taquilla.cs",
               "RelativeDocumentMoniker": "Clases\\Taquilla.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Empirico\\C#\\ProgramacionOrientadaObjetos\\ParqueAtracciones\\Clases\\Taquilla.cs",
               "RelativeToolTip": "Clases\\Taquilla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:11:31.308Z",
               "IsPinned": true,
@@ -108,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Manilla.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Empirico\\C#\\ProgramacionOrientadaObjetos\\ParqueAtracciones\\Clases\\Manilla.cs",
               "RelativeDocumentMoniker": "Clases\\Manilla.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Empirico\\C#\\ProgramacionOrientadaObjetos\\ParqueAtracciones\\Clases\\Manilla.cs",
               "RelativeToolTip": "Clases\\Manilla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:11:39.732Z",
               "IsPinned": true,

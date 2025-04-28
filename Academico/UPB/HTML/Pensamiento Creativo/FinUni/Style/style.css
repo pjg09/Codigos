@@ -10,7 +10,6 @@ html, body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f9f9f9;
 }
 
 img {
@@ -27,7 +26,7 @@ footer {
 /*body*/
 
 body {
-  background-color: #aed1b2;
+  background-color: #e1dfd9;
   margin: 0;
   padding: 0;
 }
@@ -36,26 +35,59 @@ body {
 
 header {
     padding: 1rem;
-    background-color: #aed1b2;
+    background-color: #e1dfd9;
     margin: 0;
     display: flex;
     justify-content: space-between;
     padding: 1rem 2rem;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 header h1 {
-    font-size: 4rem;
+    font-size: 2rem;
 }
 
-.contenedor-boton {
+.menu-header {
+  display: none;
+}
+
+.iconos-menu {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.botones-header {
   display: flex;
   align-items: center;
+  gap: 2rem;
 }
 
 .boton-header {
   padding: 0.5rem 1.1rem;
   font-size: 1rem;
-  font-weight: bold;
+  line-height: 1;
+  background-color: #e1dfd9;
+  color: #333;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.boton-header:hover {
+  background-color: #2a4a32;
+  color: #f9f9f9;
+}
+
+.boton-reservar {
+  padding: 0.5rem 1.1rem;
+  font-size: 1rem;
   line-height: 1;
   background-color: #2a4a32;
   color: #f9f9f9;
@@ -66,34 +98,108 @@ header h1 {
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
-  transition-duration: 0.4s;
+  transition-duration: 0.5s;
 }
 
-.boton-header:hover {
-  background-color: #aed1b2;
-  color: #333;
-  box-shadow: 0 0 20px 8px #2a4a32;
+.boton-reservar:hover {
+  background-color: #376844;
+  color: #f9f9f9;
 }
 
 .seccion-izquierda {
   display: flex;
 }
 
-.izquierda, .derecha {
+.logo-izquierda, .logo-derecha {
     margin: 0;
 }
 
-.izquierda {
+.logo-izquierda {
   background-color: #2a4a32;
   border-radius: 0.5rem;
   color: #f9f9f9;
 }
 
-/*main*/
+/* divs por debajo del header en orden */
 
-main {
-    text-align: center;
-    background-color: #f9f9f9;
+.imagen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 0 1rem;
+  position: relative;
+}
+
+.imagen img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  opacity: 0.9;
+}
+
+.texto-imagen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: #f9f9f9;
+  font-size: 2.5rem;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+.servicios {
+  padding-top: 3rem;
+  padding-left: 3.5rem;
+}
+
+.titulo-servicios {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.imagenes-servicios {
+  padding-top: 1.5rem;
+  display: flex;
+  gap: 6rem;
+  flex-wrap: wrap;
+}
+
+.servicio {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+.servicio img {
+  border-radius: 0.5rem;
+  opacity: 0.9;
+  max-width: 100%;
+}
+
+.servicio p {
+  margin-top: 0.5rem;
+}
+
+.titulo-servicio-individual {
+  font-size: 1.5rem;
+  padding-top: 1.5rem;
+  color: #376844;
+  text-decoration: underline;
+}
+
+.precio {
+  font-size: 1.15rem;
+  color: #333;
+}
+
+.texto-servicio {
+  font-size: 1.15rem;
+  padding-top: 1rem;
+  color: #333;
+  text-align: justify;
 }
 
 /*footer*/
@@ -104,20 +210,63 @@ footer {
 
 /*medias*/
 
-@media (min-width: 768px) {
-    body {
-      padding: 0;
-    }
-  
-    h1 {
-      font-size: 2.5rem;
-    }
+@media (max-width: 1440px) {
+  .imagenes-servicios {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 1024px) {
+  .texto-imagen {
+    display: none;
   }
   
-  @media (min-width: 1024px) {
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 2rem;
-    }
-  }  
+  .imagenes-servicios {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .iconos-menu {
+    display: block;
+    margin-left: auto;
+  }
+
+  .botones-header {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .menu-header:checked + .iconos-menu + .botones-header {
+    display: flex;
+  }
+
+  header {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .seccion-izquierda {
+    flex-grow: 1;
+  }
+
+  .imagen img {
+    width: 90%;
+  }
+}
+
+@media (max-width: 426px) {
+  .titulo-servicios {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 321px) {
+  .titulo-servicios {
+    font-size: 1.5rem;
+  }
+}
