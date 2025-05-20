@@ -1,0 +1,23 @@
+General
+
+Manejo de estilos a la hora de crear una nueva hoja, los estilos se mantienen constantes?
+
+Manejo de hojas dentro de un mismo libro
+
+Inventario
+
+El que dice actual es que se va actualizando con las salidas y las entradas
+
+Hay que poner comentarios ocasionalmente
+
+También debe crear hojas dentro de los libros mes a mes
+
+Columna ubicación es irrelevante
+
+Pestañas
+
+Cosas que se están remisionando (remisiones, va tener información que se le ingresa para ser vinculado a materiales pero no debe ser reflejado directamente a materiales, se ingresa es para que una vez se vincule a materiales ((mientras no se tenga el número de factura, en materiales, un proveedor diferente a QoS ponga el numero de remision para saber a que remisión corresponde la factura)))
+
+Una para colocar el número de factura a la remisión cuando tenga la factura (es a materiales, es la que filtra por proveedores diferentes a QoS)
+
+Devoluciones
