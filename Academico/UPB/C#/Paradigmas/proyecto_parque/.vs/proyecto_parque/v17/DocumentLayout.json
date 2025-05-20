@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Parque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Parque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Manilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Parque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Parque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Atraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 208,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,26 +51,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Atraccion.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Atraccion.cs",
               "RelativeDocumentMoniker": "Clases\\Atraccion.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Atraccion.cs",
               "RelativeToolTip": "Clases\\Atraccion.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T15:10:56.6Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Taquilla.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Taquilla.cs",
               "RelativeDocumentMoniker": "Clases\\Taquilla.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Taquilla.cs",
               "RelativeToolTip": "Clases\\Taquilla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T15:11:08.474Z",
               "IsPinned": true,
@@ -78,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Registro.cs",
               "RelativeDocumentMoniker": "Clases\\Registro.cs",
@@ -87,7 +88,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T15:11:22.736Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,7 +99,7 @@
               "RelativeDocumentMoniker": "Clases\\Manilla.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Manilla.cs",
               "RelativeToolTip": "Clases\\Manilla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T15:10:44.152Z",
               "IsPinned": true,
@@ -105,19 +107,32 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Parque.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Parque.cs",
               "RelativeDocumentMoniker": "Clases\\Parque.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\proyecto_parque\\Clases\\Parque.cs",
               "RelativeToolTip": "Clases\\Parque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:10:27.907Z"
+              "WhenOpened": "2025-02-26T15:10:27.907Z",
+              "EditorCaption": ""
             }
           ]
         }

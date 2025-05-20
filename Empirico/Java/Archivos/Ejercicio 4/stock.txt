@@ -1,0 +1,4 @@
+Producto/Sucursal,Sucursal Norte,Sucursal Centro,Sucursal Sur
+Zapatos,10,5,3
+Camisas,2,8,0
+Pantalones,4,6,7

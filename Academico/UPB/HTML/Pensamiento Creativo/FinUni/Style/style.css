@@ -155,6 +155,11 @@ header h1 {
   padding-left: 3.5rem;
 }
 
+.servicios-gratuitos {
+  padding-top: 3rem;
+  padding-left: 3.5rem;
+}
+
 .titulo-servicios {
   font-size: 4rem;
   font-weight: bold;
@@ -165,6 +170,14 @@ header h1 {
   display: flex;
   gap: 6rem;
   flex-wrap: wrap;
+}
+
+.imagenes-servicios-gratuitos {
+  padding-top: 1.5rem;
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .servicio {
@@ -202,6 +215,40 @@ header h1 {
   text-align: justify;
 }
 
+.espaciador {
+  padding: 1rem;
+}
+
+.titulo-herramientas-gratuitas {
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.marca {
+  display: flex;
+  width: 100vw;
+}
+
+.marca-izquierda {
+  flex: 1;
+  padding: 2rem;
+  padding-left: 8rem;
+  box-sizing: border-box;
+}
+
+.marca-derecha {
+  flex: 1;
+  padding: 2rem;
+  padding-right: 8rem;
+  box-sizing: border-box;
+}
+
+.titulo-marca {
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
 /*footer*/
 
 footer {
@@ -215,14 +262,37 @@ footer {
     flex-direction: column;
     align-items: center;
   }
+
+  .titulo-servicios {
+    text-align: center;
+  }
+
+  .imagenes-servicios-gratuitos {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @media (max-width: 1024px) {
   .texto-imagen {
     display: none;
   }
+
+  .titulo-servicios {
+    text-align: center;
+  }
+
+  .titulo-herramientas-gratuitas {
+    font-size: 3.5rem;
+    text-align: center;
+  }
   
   .imagenes-servicios {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .imagenes-servicios-gratuitos {
     flex-direction: column;
     align-items: center;
   }
@@ -257,16 +327,39 @@ footer {
   .imagen img {
     width: 90%;
   }
+
+  .titulo-herramientas-gratuitas {
+    font-size: 2rem;
+  }
+
+  .imagenes-servicios-gratuitos {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @media (max-width: 426px) {
   .titulo-servicios {
     font-size: 2rem;
   }
+
+  .titulo-herramientas-gratuitas {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 376px) {
+  .titulo-herramientas-gratuitas {
+    font-size: 1.2rem;
+  }
 }
 
 @media (max-width: 321px) {
   .titulo-servicios {
     font-size: 1.5rem;
+  }
+
+  .titulo-herramientas-gratuitas {
+    font-size: 1rem;
   }
 }

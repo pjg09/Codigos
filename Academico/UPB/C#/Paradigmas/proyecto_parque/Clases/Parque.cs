@@ -8,7 +8,6 @@ namespace proyecto_parque.Clases
 {
     internal class Parque
     {
-
         //Atributos de usuario
         private string nombre;
         private List<Atraccion> lista_atracciones;
@@ -22,6 +21,9 @@ namespace proyecto_parque.Clases
         //Atributos de validación
         private readonly byte longitud_minima = 5, cantidad_atracciones = 10, cantidad_taquillas = 3, cantidad_manillas_enviar = 100;
         private readonly ushort cantidad_manillas = 1000;
+
+        //Atributos de métodos
+
 
         //Constructor universal
         public Parque(string nombre, List<Atraccion> lista_atracciones)

@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Camioneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Camioneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,28 +15,32 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Deportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases\\Vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -63,8 +63,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:12:56.268Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "Clases\\Automovil.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Automovil.cs",
               "RelativeToolTip": "Clases\\Automovil.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAE4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAE4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T15:02:53.584Z",
               "IsPinned": true,
@@ -82,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Camioneta.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Camioneta.cs",
               "RelativeDocumentMoniker": "Clases\\Camioneta.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Camioneta.cs",
               "RelativeToolTip": "Clases\\Camioneta.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T22:14:26.067Z",
               "IsPinned": true,
@@ -96,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Deportivo.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Deportivo.cs",
               "RelativeDocumentMoniker": "Clases\\Deportivo.cs",
@@ -115,27 +114,27 @@
               "RelativeDocumentMoniker": "Clases\\Taxi.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Taxi.cs",
               "RelativeToolTip": "Clases\\Taxi.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:22:00.438Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Persona.cs",
               "RelativeDocumentMoniker": "Clases\\Persona.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Persona.cs",
               "RelativeToolTip": "Clases\\Persona.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T15:03:17.974Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Vendedor.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Vendedor.cs",
               "RelativeDocumentMoniker": "Clases\\Vendedor.cs",
@@ -148,20 +147,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Cliente.cs",
               "RelativeDocumentMoniker": "Clases\\Cliente.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Cliente.cs",
               "RelativeToolTip": "Clases\\Cliente.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T15:03:05.177Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Venta.cs",
               "RelativeDocumentMoniker": "Clases\\Venta.cs",
@@ -174,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Concesionario.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Herencia_Concesionario\\Clases\\Concesionario.cs",
               "RelativeDocumentMoniker": "Clases\\Concesionario.cs",
@@ -184,6 +183,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T15:35:59.725Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
