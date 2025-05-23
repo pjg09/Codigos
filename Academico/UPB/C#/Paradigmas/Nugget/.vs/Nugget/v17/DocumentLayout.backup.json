@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Nugget\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2014EB70-5B10-45B7-B3B2-EF76B33EE61E}|Nugget.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\nugget\\eventos\\publisher_becas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2014EB70-5B10-45B7-B3B2-EF76B33EE61E}|Nugget.csproj|solutionrelative:eventos\\publisher_becas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2014EB70-5B10-45B7-B3B2-EF76B33EE61E}|Nugget.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\nugget\\clases\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2014EB70-5B10-45B7-B3B2-EF76B33EE61E}|Nugget.csproj|solutionrelative:clases\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2014EB70-5B10-45B7-B3B2-EF76B33EE61E}|Nugget.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\nugget\\eventos\\publisher_becas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2014EB70-5B10-45B7-B3B2-EF76B33EE61E}|Nugget.csproj|solutionrelative:eventos\\publisher_becas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2014EB70-5B10-45B7-B3B2-EF76B33EE61E}|Nugget.csproj|c:\\users\\pjgom\\onedrive\\desktop\\programacion\\codigos\\academico\\upb\\c#\\paradigmas\\nugget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 208,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Publisher_Becas.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Nugget\\Eventos\\Publisher_Becas.cs",
               "RelativeDocumentMoniker": "Eventos\\Publisher_Becas.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Nugget\\Eventos\\Publisher_Becas.cs",
               "RelativeToolTip": "Eventos\\Publisher_Becas.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T15:19:39.03Z",
               "IsPinned": true,
@@ -53,13 +53,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Nugget\\Clases\\Registro.cs",
               "RelativeDocumentMoniker": "Clases\\Registro.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Programacion\\Codigos\\Academico\\UPB\\C#\\Paradigmas\\Nugget\\Clases\\Registro.cs",
               "RelativeToolTip": "Clases\\Registro.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswD4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T15:36:06.086Z",
               "IsPinned": true,

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Código Limpio, Premio Seguro | Frotex</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(to right, #c90404, #ff0505);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2em;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #e80000;
+      margin-bottom: 10px;
+    }
+    .steps, .premios, .formulario, .footer {
+      background: white;
+      border-radius: 10px;
+      padding: 30px;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+      margin-bottom: 30px;
+    }
+    .step {
+      margin-bottom: 20px;
+    }
+    .step span {
+      font-weight: bold;
+      color: #e80000;
+    }
+    .formulario input {
+      width: 100%;
+      padding: 15px;
+      font-size: 1em;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      border: 2px solid #e80000;
+      border-radius: 8px;
+    }
+    .formulario button {
+      background: #e80000;
+      color: white;
+      padding: 15px 25px;
+      border: none;
+      border-radius: 8px;
+      font-size: 1em;
+      cursor: pointer;
+    }
+    .formulario button:hover {
+      background: #e80000;
+    }
+    .premio-imgs {
+      display: flex;
+      gap: 80px;
+      justify-content: center;
+      align-items: center;
+      margin-top: 20px;
+    }
+    .premio-imgs img {
+      width: 100%;
+      max-width: 200px;
+      border-radius: 10px;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    a {
+      color: #e80000;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>¡Código Limpio, Premio Seguro!</h1>
+    <p>Limpia, raspa y gana con Frotex limpia hornos</p>
+  </header>
+
+  <section class="steps">
+    <h2>¿Cómo funciona?</h2>
+    <div class="step"><span>1.</span> Compra tu Frotex limpia hornos</div>
+    <div class="step"><span>2.</span> Raspa la etiqueta y encuentra tu código</div>
+    <div class="step"><span>3.</span> Escanea el QR o ingresa aquí tu código</div>
+    <div class="step"><span>4.</span> Acumula puntos y gana premios increíbles</div>
+  </section>
+
+  <section class="premios">
+    <h2>Premios disponibles</h2>
+    <ul>
+      <li>🎉 1 horno nuevo</li>
+      <li>🎁 Kit de cocina profesional</li>
+      <li>🧽 Limpieza profesional a domicilio</li>
+      <li>💎 Productos Frotex, cupones y más</li>
+    </ul>
+    <div class="premio-imgs">
+      <img src="./Imagenes/limpiaHorno.webp" alt="Horno nuevo">
+      <img src="./Imagenes/kitCocina.jpeg" alt="Kit de cocina">
+      <img src="./Imagenes/productosFrotex.jpeg" alt="Productos Frotex">
+    </div>
+  </section>
+
+  <section class="formulario">
+    <h2>Ingresa tu código aquí</h2>
+    <input type="text" placeholder="Ejemplo: FRTX-1234-XYZ" />
+    <button>Verificar Código</button>
+  </section>
+
+  <section class="footer">
+    <p>©️ 2025 Frotex Colombia | Todos los derechos reservados</p>
+    <p><a href="#">Términos y condiciones</a> | <a href="#">Contáctanos</a></p>
+  </section>
+
+</body>
+</html>

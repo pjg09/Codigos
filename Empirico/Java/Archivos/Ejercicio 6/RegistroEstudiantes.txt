@@ -1,0 +1,4 @@
+Juan Jose Arango;000521467;3.5;3;5;4.8
+Pedro Jose Gomez;000325987;5;5;5;5;
+Carlos Daniel Echeverri;000548777;1;1;1;1
+Laura Carolina Suarez;000218532;4.9;4.9;4.9;4.9
