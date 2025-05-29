@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=MedievalSharp&family=UnifrakturCook&display=swap');
+
+.botones {
+
+    background-color: white;
+    border: 2px solid black;
+    height: 40px;
+    border-radius: 4px;
+    color: black;
+    transition: 0.4s;
+
+}
+
+.botones:hover {
+
+    background-color: black;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.boton-home {
+
+    background-color: white;
+    padding: 8px;
+    border: 2px solid black;
+
+}
+
+.boton-home {
+
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.imagen-home {
+
+    height: 32px;
+    width: 32px;
+
+}
+
+.boton-agregar:hover {
+
+    background-color: black;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.fondo {
+
+    background-image: url("images/fondo.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 30px;
+
+}
+
+.banner {
+
+    position: relative;
+    width: 100%;
+    margin: auto;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.imagen-banner {
+
+    width: 50%;
+    display: block;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.titulo-banner {
+
+    font-family: 'UnifrakturCook', 'Cinzel Decorative', 'MedievalSharp', cursive;
+    font-size: 60px;
+    color: #3b2f2f;
+    text-shadow: 
+        -1px -1px 0 white,
+         1px -1px 0 white,
+        -1px  1px 0 white,
+         1px  1px 0 white;;
+    text-align: center;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    font-weight: bold;
+    pointer-events: none;
+
+}

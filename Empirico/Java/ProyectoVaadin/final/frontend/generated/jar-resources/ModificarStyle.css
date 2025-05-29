@@ -1,0 +1,121 @@
+.botones {
+
+    background-color: white;
+    border: 2px solid black;
+    height: 40px;
+    border-radius: 4px;
+    color: black;
+    transition: 0.4s;
+
+}
+
+.botones:hover {
+
+    background-color: black;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.boton-home {
+
+    background-color: white;
+    padding: 8px;
+    border: 2px solid black;
+
+}
+
+.boton-home {
+
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.imagen-home {
+
+    height: 32px;
+    width: 32px;
+
+}
+
+.fondo {
+
+    background-image: url("images/fondo.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 30px;
+
+}
+
+.titulo {
+
+    font-family: 'UnifrakturCook', 'Cinzel Decorative', 'MedievalSharp', cursive;
+    font-size: 40px;
+    color: #3b2f2f;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.boton-limpiar-filtro {
+
+    margin-top: 35px;
+    background-color: white;
+    border: 2px solid black;
+    height: 40px;
+    border-radius: 4px;
+    color: black;
+    transition: 0.4s;
+
+}
+
+.boton-limpiar-filtro:hover {
+
+    margin-top: 35px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.boton-guardar:hover {
+
+    background-color: #005c23;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.imagen-chulo {
+
+    height: 32px;
+    width: 32px;
+    margin-top: 6px;
+
+}
+
+.imagen-no-libro {
+
+    width: 460px;
+    height: 460px;
+
+}
+
+.parrafo {
+
+    font-size: 24px;
+
+}
+
+.subtitulo {
+
+    font-family: 'UnifrakturCook', 'Cinzel Decorative', 'MedievalSharp', cursive;
+    color: #3b2f2f;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-bottom: 20px;
+
+}

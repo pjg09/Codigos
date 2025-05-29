@@ -1,0 +1,18 @@
+Estadísticas de la Biblioteca
+
+Total de libros: 9
+Libros disponibles: 9
+Libros prestados: 0
+
+Libros por género:
+Libros del género "Ficción": 0
+Libros del género "Romance": 1
+Libros del género "Misterio": 0
+Libros del género "Ciencia Ficción": 0
+Libros del género "Fantasía": 5
+Libros del género "Terror": 0
+Libros del género "Literatura infantil": 1
+Libros del género "No ficción": 1
+Libros del género "Autoayuda": 0
+Libros del género "Historia": 1
+

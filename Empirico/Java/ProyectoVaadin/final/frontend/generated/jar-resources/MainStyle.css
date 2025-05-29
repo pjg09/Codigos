@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=MedievalSharp&family=UnifrakturCook&display=swap');
+
+.imagen-bienvenida {
+
+    width: 500px;
+    border-radius: 8px
+
+}
+
+.botones {
+
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    color: black;
+    transition: 0.4s;
+
+}
+
+.botones:hover {
+
+    background-color: black;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.fondo {
+
+    background-image: url("images/fondo.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 30px;
+
+}
+
+.titulo {
+
+    font-family: 'UnifrakturCook', 'Cinzel Decorative', 'MedievalSharp', cursive;
+    font-size: 40px;
+    color: #3b2f2f;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-bottom: 20px;
+
+}

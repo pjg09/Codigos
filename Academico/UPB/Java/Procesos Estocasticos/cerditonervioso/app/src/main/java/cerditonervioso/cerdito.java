@@ -46,11 +46,8 @@ public class cerdito {
                     return 3;
 
                 }
-
             }
-
         }
-
     }
 
     public static byte avanceFantasma(byte posicionFantasma) {
@@ -76,7 +73,6 @@ public class cerdito {
                 }
 
             }
-
             case 20 -> {
 
                 if (probabilidadAvance < 0.35) {
@@ -96,7 +92,6 @@ public class cerdito {
                 return 1;
 
             }
-
 
             default -> {
 
@@ -127,56 +122,37 @@ public class cerdito {
     public static void main(String[] args) {
 
         System.out.println("Bienvenido al juego del cerdito nervioso\n");
-        
+
         Scanner escaner = new Scanner(System.in);
 
         boolean input = false;
-
         byte posicionInicialFantasma = 0, posicionInicialCerdito = 2, meta = 22, estadoA = 13, posicionCerdito, posicionFantasma, turnoCerdito, turnoFantasma;
-
         short turno;
-
         int alcanzadoEstadoA = 0, numeroSimulaciones = 0;
-
         double probabilidadLlegarEstadoA = 0;
 
         try {
-
-            while(!input) {
-
+            while (!input) {
                 try {
-
                     System.out.println("Ingrese la cantidad de veces que quiere simular el juego (debe ser un número entero entre 1 y 100.000)");
                     numeroSimulaciones = escaner.nextInt();
-
                     System.out.println("");
 
                     if (numeroSimulaciones >= 1 && numeroSimulaciones <= 100000) {
-
                         input = true;
-
                     } else {
-
                         throw new IllegalArgumentException("Error: la cantidad de simulaciones debe estar entre 1 y 100.000\n");
-
                     }
-
                 } catch (IllegalArgumentException recoleccionDatos) {
-
                     System.out.println(recoleccionDatos.getMessage());
                     escaner.next();
-
                 } catch (Exception e) {
-
                     System.out.println("Error: la cantidad de simulaciones debe estar entre 1 y 100.000\n");
                     escaner.next();
-
                 }
-
             }
 
             for (short i = 1; i <= numeroSimulaciones; i++) {
-
                 System.out.println("");
                 System.out.println("---------- Juego número " + i + " ----------");
 
@@ -186,10 +162,9 @@ public class cerdito {
                 System.out.println("El cerdito comienza en la posición " + posicionCerdito);
                 System.out.println("El fantasma comienza en la posición" + posicionFantasma);
 
+                turno = 1;
+
                 while (posicionFantasma < meta && posicionCerdito < meta) {
-
-                    turno = 1;
-
                     System.out.println("");
                     System.out.println("Turno número " + turno);
 
@@ -205,36 +180,25 @@ public class cerdito {
                     System.out.println("Ahora el cerdito se encuentra en la casilla " + posicionCerdito);
                     System.out.println("Ahora el fantasma se encuentra en la casilla " + posicionFantasma);
 
+                    turno += 1;
+
                     if (posicionCerdito == estadoA) {
-
                         System.out.println("¡¡¡El cerdito ha llegado por primera vez al estado A!!!");
-
                         alcanzadoEstadoA++;
-
                     }
 
                     if (posicionFantasma >= posicionCerdito) {
-
                         break;
-
                     }
-
-                    turno++;
-
                 }
 
                 System.out.println("");
 
                 if (posicionFantasma >= posicionCerdito) {
-
                     System.out.println("El juego número " + i + " ha finalizado con el fantasma como ganador");
-
                 } else {
-
                     System.out.println("El juego número " + i + " ha finalizado con el cerdito como ganador");
-
                 }
-
             }
 
             probabilidadLlegarEstadoA = (double) alcanzadoEstadoA / numeroSimulaciones;
@@ -246,7 +210,7 @@ public class cerdito {
         } finally {
 
             System.out.println("");
-            System.out.println("De " + numeroSimulaciones + " simulaciones se llegó " + alcanzadoEstadoA + " lo que indica que hubo una probabilidad de llegar al estado A de un " + probabilidadLlegarEstadoA);
+            System.out.println("De " + numeroSimulaciones + " simulaciones se llegó " + alcanzadoEstadoA + " veces al estado A, lo que indica que hubo una probabilidad de llegar al estado A de un " + String.format("%.3f", probabilidadLlegarEstadoA));
 
             escaner.close();
 
