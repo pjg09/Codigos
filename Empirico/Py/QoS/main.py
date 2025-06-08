@@ -1,1 +1,1 @@
-import tkinter as tkinter
+import customtkinter as ctk

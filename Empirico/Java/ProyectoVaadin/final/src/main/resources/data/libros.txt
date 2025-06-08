@@ -1,5 +1,4 @@
 En Agosto Nos Vemos|Gabriel García Marquez|Fantasía|2024|false
-Don Quijote de la Mancha|Miguel de Cervantes|Fantasía|1605|true
 La Biblio|Varios autores|Historia|1000|false
 Harry Potter y la Piedra Filosofal|J.K. Rowling|Fantasía|1997|true
 El Señor de los Anillos|J.R.R Tolkien|Fantasía|1955|false

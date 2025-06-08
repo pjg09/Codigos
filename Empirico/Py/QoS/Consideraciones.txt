@@ -1,6 +1,6 @@
 General
 
-Manejo de estilos a la hora de crear una nueva hoja, los estilos se mantienen constantes?
+Manejo de estilos a la hora de crear una nueva hoja, los estilos se mantienen constantes? -> Si, hay que mantener el formato en la creación de algunas hojas nuevas
 
 Manejo de hojas dentro de un mismo libro
 
